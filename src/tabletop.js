@@ -47,11 +47,11 @@
   };
 
   /*
-    Initialize with Tabletop.init( { key: '0AjAPaAU9MeLFdHUxTlJiVVRYNGRJQnRmSnQwTlpoUXc' } )
+    Initialize with Tabletop.init( { key: '19Q_c1hcGIkLORluUacrXDFGjH4bKv3clPHhX0HqXhrI' } )
       OR!
-    Initialize with Tabletop.init( { key: 'https://docs.google.com/spreadsheet/pub?hl=en_US&hl=en_US&key=0AjAPaAU9MeLFdHUxTlJiVVRYNGRJQnRmSnQwTlpoUXc&output=html&widget=true' } )
+    Initialize with Tabletop.init( { key: 'https://docs.google.com/spreadsheets/d/19Q_c1hcGIkLORluUacrXDFGjH4bKv3clPHhX0HqXhrI&output=html&widget=true' } )
       OR!
-    Initialize with Tabletop.init('0AjAPaAU9MeLFdHUxTlJiVVRYNGRJQnRmSnQwTlpoUXc')
+    Initialize with Tabletop.init('19Q_c1hcGIkLORluUacrXDFGjH4bKv3clPHhX0HqXhrI')
   */
 
   var Tabletop = function(options) {
